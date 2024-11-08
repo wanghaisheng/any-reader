@@ -1,4 +1,5 @@
 # any-reader
+聚合
 
 [![npm version][npm-version-src]][npm-version-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
